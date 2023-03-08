@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+#      url: mongodb://47.108.71.59:27017/test
+      port: 27017
+      database: test
+      host: 127.0.0.1
